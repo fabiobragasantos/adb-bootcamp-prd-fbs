@@ -52,7 +52,7 @@ config =  {"fs.azure.account.key.dlsbootcampprdfbs.blob.core.windows.net" :dbuti
 
 # DBTITLE 1,Lista de diretórios do lake 
 #apenas os diretórios que vamos interagir
-diretorios = ['raw','transient','delta']
+diretorios =  ['transient','raw','delta','sandbox','gerencia']
 
 # COMMAND ----------
 
